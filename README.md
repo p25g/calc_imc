@@ -1,6 +1,7 @@
 # calc_imc
 
-A new Flutter project.
+This is my first Flutter project.
+sorry for some mistake. ;)
 
 ## Getting Started
 
